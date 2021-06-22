@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#draw {
+    border: ridge;
+    border-width: 25px;
+    cursor: pointer;
+}
